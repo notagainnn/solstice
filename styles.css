@@ -1,0 +1,95 @@
+body {
+    background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701330196.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.nav-link a {
+    color:white;
+}
+
+.herocontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:1.6rem;
+    text-align: center;
+}
+
+.herocta {
+    color: white;
+    font-size: 40px;
+}
+
+.btn-dark {
+    margin-top:3rem;
+    margin-bottom: 4rem;
+}
+
+.carousel-item {
+    max-height: 400px;
+    min-width: 500px;
+
+    
+}
+
+.carousel {
+    padding-bottom: 2rem;
+}
+
+.carousel-inner {
+    justify-content: center;
+}
+
+.map {
+    width: 100%;
+    height:100%;
+    max-height: 400px;
+    min-height: 300px;
+}
+
+
+.darkfooter {
+    margin-top: 2rem;
+}
+
+.navbar-toggler-icon {
+    color:white;
+}
+
+.hairpic1 {
+    background-image:url("hairphoto1.PNG");
+    height:400px;
+    background-repeat: none;
+    background-size: cover;
+    background-position: top;
+}
+
+.hairpic2 {
+    background-image:url("hairphoto2.PNG");
+    height:400px;
+    background-size: cover;
+    background-position: top;
+    background-repeat: none;
+}
+
+.hairpic3 {
+    background-image:url("hairphoto3.PNG");
+    height:400px;
+    background-repeat: none;
+    background-size: cover;
+    background-position: top;
+}
+
+.hairpic4 {
+    background-image:url("hairphoto4.PNG");
+    height:400px;
+    background-repeat: none;
+    background-size: cover;
+    background-position: top;
+}
+
+
+
+.modaltext {
+    padding-top: .7rem;
+}
